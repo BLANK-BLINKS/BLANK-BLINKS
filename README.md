@@ -7,12 +7,12 @@
 </p>
 👨🏻‍💻 &nbsp;About Me
 
-💡  Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.
-🎓  Actualmente, estudio Desarrollo de Software Multiplataforma en la Universidad Tecnológica de León (2023 - 2025).
-🌱  Estoy en constante aprendizaje sobre inteligencia artificial, diseño de sistemas y arquitectura en la nube.
-✍️  En mi tiempo libre, disfruto del diseño gráfico y la escritura de blogs como pasatiempos y proyectos personales.
-💬  Siéntete libre de contactarme para consultoría pro bono, voluntariado o simplemente una conversación interesante.
-✉️  Puedes enviarme un correo a [emmanuelortizreyes3@gmail.com]. ¡Responderé lo antes posible!
+💡  Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.\
+🎓  Actualmente, estudio Desarrollo de Software Multiplataforma en la Universidad Tecnológica de León (2023 - 2025).\
+🌱  Estoy en constante aprendizaje sobre inteligencia artificial, diseño de sistemas y arquitectura en la nube.\
+✍️  En mi tiempo libre, disfruto del diseño gráfico y la escritura de blogs como pasatiempos y proyectos personales.\
+💬  Siéntete libre de contactarme para consultoría pro bono, voluntariado o simplemente una conversación interesante.\
+✉️  Puedes enviarme un correo a [emmanuelortizreyes3@gmail.com]. ¡Responderé lo antes posible!\
 📄  Consulta mi [CV]([https://www.canva.com/design/DAGeVqGNooM/BpaB-6rTI0LbNUOhHS7V_g/edit?utm_content=DAGeVqGNooM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]) para conocer más sobre mi experiencia. Estoy abierto a comentarios y sugerencias.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
