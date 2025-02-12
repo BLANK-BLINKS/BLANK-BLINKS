@@ -7,13 +7,13 @@
 </p>
 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡  Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.
+🎓  Actualmente, estudio Desarrollo de Software Multiplataforma en la Universidad Tecnológica de León (2023 - 2025).
+🌱  Estoy en constante aprendizaje sobre inteligencia artificial, diseño de sistemas y arquitectura en la nube.
+✍️  En mi tiempo libre, disfruto del diseño gráfico y la escritura de blogs como pasatiempos y proyectos personales.
+💬  Siéntete libre de contactarme para consultoría pro bono, voluntariado o simplemente una conversación interesante.
+✉️  Puedes enviarme un correo a [emmanuelortizreyes3@gmail.com]. ¡Responderé lo antes posible!
+📄  Consulta mi [CV]([https://www.canva.com/design/DAGeVqGNooM/BpaB-6rTI0LbNUOhHS7V_g/edit?utm_content=DAGeVqGNooM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]) para conocer más sobre mi experiencia. Estoy abierto a comentarios y sugerencias.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
