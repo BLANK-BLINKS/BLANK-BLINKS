@@ -34,8 +34,8 @@
 
 ## 📜 Certificados
 
-| Certificado | Institución | Año | Enlace |
-|-------------|------------|------|--------|
+| Certificado | Institución | Año | Enlace | Imagen |
+|-------------|------------|------|--------| ------ |
 | Experiencia del usuario (UX) | Coursera | 2024 | (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
 | NDG Linux Essentials | Netacad | 2024 | [Ver certificado] (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
 | JavaScript Avanzado | Udemy | 2023 | [Ver certificado](#) | ![Udemy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png) |
