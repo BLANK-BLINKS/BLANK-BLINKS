@@ -32,6 +32,15 @@
 ![NetBeans](https://img.shields.io/badge/-Net%20Beans-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+## 📜 Certificados
+
+| Certificado | Institución | Año | Enlace |
+|-------------|------------|------|--------|
+| Desarrollo Web | Platzi | 2024 | [Ver certificado](#) |
+| JavaScript Avanzado | Udemy | 2023 | [Ver certificado](#) |
+| Inteligencia Artificial | Coursera | 2024 | [Ver certificado](#) |
+| Bases de Datos SQL | Oracle Academy | 2023 | [Ver certificado](#) |
+
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
