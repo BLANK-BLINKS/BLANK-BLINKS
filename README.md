@@ -36,7 +36,7 @@
 
 | Certificado | Institución | Año | Enlace | Imagen |
 |-------------|------------|------|--------|--------|
-| Experiencia del usuario (UX) | Coursera | 2024 | (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) | <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3f/Platzi.jpg](https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit/blob/master/Aspectos%20b%C3%A1sicos%20del%20dise%C3%B1o%20de%20la%20experiencia%20del%20usuario_page-0001.jpg)" width="50"> |
+| Experiencia del usuario (UX) | Coursera | 2024 | (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) | <img src="[Aspectos básicos del diseño de la experiencia del usuario_page-0001.jpg)" width="50"> |
 | NDG Linux Essentials | Netacad | 2024 | [Ver certificado]() |
 | Inteligencia Artificial | Coursera | 2024 | [Ver certificado](#) |
 | Bases de Datos SQL | Oracle Academy | 2023 | [Ver certificado](#) |
