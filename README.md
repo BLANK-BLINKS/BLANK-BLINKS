@@ -36,7 +36,7 @@
 
 | Certificado | Institución | Año | Enlace | Imagen |
 |-------------|------------|------|--------| ------ |
-| Experiencia del usuario (UX) | Coursera | 2024 | (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
+| Experiencia del usuario (UX) | Coursera | 2024 | [Ver certificado] (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
 | NDG Linux Essentials | Netacad | 2024 | [Ver certificado] (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
 | JavaScript Avanzado | Udemy | 2023 | [Ver certificado](#) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Platzi.jpg" width="50"> |
 
