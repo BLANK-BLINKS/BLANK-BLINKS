@@ -32,15 +32,7 @@
 ![NetBeans](https://img.shields.io/badge/-Net%20Beans-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-## 📜 Certificados
-
-| Certificado | Institución | Año | Enlace | Imagen |
-|-------------|------------|------|--------| ------ |
-| Experiencia del usuario (UX) | Coursera | 2024 | [Ver certificado] (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
-| NDG Linux Essentials | Netacad | 2024 | [Ver certificado] (https://github.com/BLANK-BLINKS/DSM406-Emmanuel-PruebaGit) |
-| JavaScript Avanzado | Udemy | 2023 | [Ver certificado](#) | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Platzi.jpg" width="50"> |
-
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/02/2025
+Last Edited on: 18/02/2025
