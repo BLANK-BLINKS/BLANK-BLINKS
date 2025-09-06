@@ -5,7 +5,7 @@
   
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🚀+Desarrolladora+FullStack+Jr.;💡+Autodidacta+Apasionada;🎓+Estudiante+de+Software;🌱+Siempre+Aprendiendo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🚀+Desarrollador+FullStack+Jr.;💡+Autodidacta+Apasionado;🎓+Estudiante+de+Software;🌱+Siempre+Aprendiendo" alt="Typing SVG" />
   </a>
   
   <!-- Social Links -->
@@ -30,15 +30,15 @@
 
 ```javascript
 const emma = {
-    code: ["JavaScript", "Java", "C", "TypeScript", "Pyhton"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C", "HTML", "CSS"],
     technologies: {
-        frontEnd: ["HTML5", "CSS3", "Bootstrap", "JavaScript", "Angular"],
-        backEnd: ["Node.js", "Java", "Pyhton", "SpringBoot"],
-        tools: ["Git", "GitHub", "VS Code", "NetBeans", "IntelliJ"]
+        frontEnd: ["HTML5", "CSS3", "Bootstrap", "JavaScript", "TypeScript", "Angular"],
+        backEnd: ["Node.js", "Java", "Python"],
+        tools: ["Git", "GitHub", "VS Code", "NetBeans", "Photoshop"]
     },
-    currentFocus: "Desarrollo FullStack & Emprendimiento",
+    currentFocus: "Desarrollo FullStack & AI",
     learning: "Inteligencia Artificial & Arquitectura en la Nube",
-    hobbies: ["🎮 Videojuegos", "🎵 Música", "📚 Aprender tecnologías", "🪴Jardinería"],
+    hobbies: ["🎮 Videojuegos", "🎵 Música", "📚 Aprender tecnologías"],
     askMeAbout: ["Web Dev", "Tech", "Software Architecture"]
 };
 ```
@@ -53,9 +53,9 @@ const emma = {
 
 ---
 
-🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-💻 Lenguajes de Programación
+### 💻 Lenguajes de Programación
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -64,18 +64,19 @@ const emma = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-🌐 Frontend & Backend
+### 🌐 Frontend & Backend
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
-⚙️ Herramientas & Plataformas
+### ⚙️ Herramientas & Plataformas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
 </p>
 
 ---
