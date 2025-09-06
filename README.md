@@ -119,7 +119,7 @@ const emma = {
   
   **¿Tienes una idea genial? ¡Hablemos!**
   
-  Siempre estoy abierta a nuevas oportunidades, colaboraciones y conversaciones interesantes sobre tecnología.
+  Siempre estoy abierto a nuevas oportunidades, colaboraciones y conversaciones interesantes sobre tecnología.
   
   [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelortizreyes3@gmail.com)
   
