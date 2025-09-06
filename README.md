@@ -1,38 +1,130 @@
-<h1 align="center"><b>Hola , Soy Emma </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 ¡Hola! Soy Emma
 
-![Emmanuel Ortiz Reyes Banner](https://github.com/BLANK-BLINKS/MG/blob/master/header.png)
+<div align="center">
+  <img src="https://github.com/BLANK-BLINKS/MG/blob/master/header.png" alt="Emmanuel Ortiz Reyes Banner" width="100%">
+  
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=🚀+Desarrolladora+FullStack+Jr.;💡+Autodidacta+Apasionada;🎓+Estudiante+de+Software;🌱+Siempre+Aprendiendo" alt="Typing SVG" />
+  </a>
+  
+  <!-- Social Links -->
+  <p>
+    <a href="mailto:emmanuelortizreyes3@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.canva.com/design/DAGeVqGNooM/BpaB-6rTI0LbNUOhHS7V_g/edit?utm_content=DAGeVqGNooM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+      <img src="https://img.shields.io/badge/-CV-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV">
+    </a>
+    <a href="https://www.utleon.edu.mx/">
+      <img src="https://img.shields.io/badge/-UTL-4ECDC4?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Universidad">
+    </a>
+  </p>
+</div>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+FullStack+Jr.;Autodidacta;Estudiante+de+Software;Amante+de+aprender+cosas+nuevas" alt="Typing SVG" /></a>
+---
+
+## 🚀 Sobre Mí
+
+<img align="right" alt="Coding GIF" height="200" width="300" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+
+```javascript
+const emma = {
+    code: ["JavaScript", "Java", "C", "HTML", "CSS"],
+    technologies: {
+        frontEnd: ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
+        backEnd: ["Node.js", "Java"],
+        tools: ["Git", "GitHub", "VS Code", "NetBeans", "Photoshop"]
+    },
+    currentFocus: "Desarrollo FullStack & AI",
+    learning: "Inteligencia Artificial & Arquitectura en la Nube",
+    hobbies: ["🎮 Videojuegos", "🎵 Música", "📚 Aprender tecnologías"],
+    askMeAbout: ["Web Dev", "Tech", "Software Architecture"]
+};
+```
+
+### 💫 Highlights
+
+- 🎓 **Estudiante** de Desarrollo de Software Multiplataforma en [UTL](https://www.utleon.edu.mx/)
+- 💡 **Explorando** nuevas tecnologías y desarrollando soluciones innovadoras
+- 🌱 **Aprendiendo** constantemente sobre IA, diseño de sistemas y cloud computing
+- 🎯 **Objetivo**: Convertirme en una desarrolladora FullStack experta
+- 💬 **Disponible** para consultoría, colaboraciones y conversaciones tech
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
-👨🏻‍💻 &nbsp;Sobre mi
 
-💡  Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software innovadoras.\
-🎓  Actualmente, estudio Desarrollo de Software Multiplataforma en la Universidad Tecnológica de León [UTL](https://www.utleon.edu.mx/).\
-🌱  Estoy en constante aprendizaje sobre inteligencia artificial, diseño de sistemas y arquitectura en la nube.\
-✍️  En mi tiempo libre, disfruto de los videojuegos y la musica como pasatiempos y proyectos personales.\
-💬  Siéntete libre de contactarme para consultoría pro bono, voluntariado o simplemente una conversación interesante.\
-✉️  Puedes enviarme un correo a [emmanuelortizreyes3@gmail.com]. ¡Responderé lo antes posible!\
-📄  Consulta mi [CV](https://www.canva.com/design/DAGeVqGNooM/BpaB-6rTI0LbNUOhHS7V_g/edit?utm_content=DAGeVqGNooM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) para conocer más sobre mi experiencia. Estoy abierto a comentarios y sugerencias.\
+### 🌐 Frontend & Backend
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### ⚙️ Herramientas & Plataformas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white" alt="NetBeans">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop">
+</p>
 
-### 🛠 &nbsp;Tecnologías
+---
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NetBeans](https://img.shields.io/badge/-Net%20Beans-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+## 📊 GitHub Stats
 
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BLANK-BLINKS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLANK-BLINKS&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-Last Edited on: 06/09/2025
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLANK-BLINKS&theme=tokyonight" alt="GitHub Streak">
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] 🚀 Completar mi formación en Desarrollo FullStack
+- [ ] 🤖 Profundizar en Inteligencia Artificial y Machine Learning  
+- [ ] ☁️ Aprender arquitectura y servicios en la nube
+- [ ] 📱 Desarrollar mi primera app mobile multiplataforma
+- [ ] 🌐 Contribuir a proyectos open source
+- [ ] 📝 Escribir artículos técnicos en mi blog
+
+---
+
+## 💌 Conectemos
+
+<div align="center">
+  
+  **¿Tienes una idea genial? ¡Hablemos!**
+  
+  Siempre estoy abierta a nuevas oportunidades, colaboraciones y conversaciones interesantes sobre tecnología.
+  
+  [![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelortizreyes3@gmail.com)
+  
+  *"El código es poesía escrita para las máquinas, pero leída por humanos."* ✨
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BLANK-BLINKS&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  
+  <sub>💖 Hecho con amor y muchas tazas de café ☕</sub>
+  
+  <p><sub>Última actualización: 06/09/2025</sub></p>
+</div>
